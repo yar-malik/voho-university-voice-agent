@@ -19,6 +19,10 @@ your university.
 Student speaks  →  Voho hears it  →  agent decides  →  university system  →  spoken answer
 ```
 
+> **Also see:** [voho-hospital-voice-agent](https://github.com/yar-malik/voho-hospital-voice-agent)
+> — the same architecture for a hospital line: emergency-first triage,
+> appointments and clinic routing. Same institution, different front door.
+
 ---
 
 ## What it does
