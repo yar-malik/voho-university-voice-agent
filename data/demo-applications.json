@@ -1,0 +1,32 @@
+[
+  {
+    "applicationId": "IAU-2026-10432",
+    "nationalId": "0000000001",
+    "applicantName": "Fictional Demo Applicant A",
+    "program": "Computer Science",
+    "status": "Under review",
+    "stage": "Awaiting nomination",
+    "missingDocuments": [],
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "applicationId": "IAU-2026-10877",
+    "nationalId": "0000000002",
+    "applicantName": "Fictional Demo Applicant B",
+    "program": "Engineering",
+    "status": "Action required",
+    "stage": "Documents incomplete",
+    "missingDocuments": ["High school certificate (attested copy)", "Recent photograph"],
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "applicationId": "IAU-2026-11204",
+    "nationalId": "0000000003",
+    "applicantName": "Fictional Demo Applicant C",
+    "program": "Business Administration",
+    "status": "Accepted",
+    "stage": "Offer issued — confirm your seat",
+    "missingDocuments": [],
+    "updatedAt": "2026-08-21"
+  }
+]

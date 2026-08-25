@@ -1,0 +1,65 @@
+[
+  {
+    "id": "how-to-apply",
+    "topic": "admissions",
+    "questionAr": "كيف أقدم على الجامعة؟",
+    "questionEn": "How do I apply to the university?",
+    "answerAr": "التقديم يكون إلكترونياً عبر بوابة القبول في موقع الجامعة خلال فترة التقديم المعلنة. تسجل حساب، تعبي بياناتك، ترفع المستندات المطلوبة، وتختار رغباتك بالترتيب. بعدها تتابع حالة طلبك من نفس البوابة.",
+    "answerEn": "Applications are submitted online through the admission portal on the university website during the announced application window. You create an account, enter your details, upload the required documents, and rank your programme preferences. You then follow your application status in the same portal.",
+    "source": "demo"
+  },
+  {
+    "id": "requirements",
+    "topic": "admissions",
+    "questionAr": "وش شروط القبول؟",
+    "questionEn": "What are the admission requirements?",
+    "answerAr": "بشكل عام تحتاج شهادة الثانوية العامة، ودرجة اختبار القدرات العامة، ودرجة الاختبار التحصيلي. بعض التخصصات لها شروط إضافية مثل الفحص الطبي أو المقابلة الشخصية. الشروط الدقيقة تتغير كل عام وتُعلن في بوابة القبول.",
+    "answerEn": "In general you need your high school certificate, a General Aptitude Test (Qudurat) score, and an Achievement Test (Tahsili) score. Some programmes have extra requirements such as a medical check or an interview. Exact requirements change each cycle and are published on the admission portal.",
+    "source": "demo"
+  },
+  {
+    "id": "weighted-score",
+    "topic": "admissions",
+    "questionAr": "كيف تُحسب النسبة الموزونة؟",
+    "questionEn": "How is the weighted score calculated?",
+    "answerAr": "النسبة الموزونة تجمع ثلاث درجات بأوزان مختلفة: الثانوية العامة، والقدرات، والتحصيلي. الأوزان المستخدمة في هذا العرض التوضيحي هي ثلاثين بالمئة للثانوية، وثلاثين للقدرات، وأربعين للتحصيلي.",
+    "answerEn": "The weighted score combines three results with different weights: the high school percentage, the aptitude test, and the achievement test. The weights used in this demo are 30% high school, 30% aptitude, and 40% achievement.",
+    "source": "demo"
+  },
+  {
+    "id": "application-status",
+    "topic": "admissions",
+    "questionAr": "وين وصل طلبي؟",
+    "questionEn": "What is the status of my application?",
+    "answerAr": "تقدر تتابع حالة طلبك من بوابة القبول، أو أساعدك الحين إذا عطيتني رقم الطلب أو رقم الهوية.",
+    "answerEn": "You can follow your application in the admission portal, or I can check it now if you give me your application number or national id.",
+    "source": "demo"
+  },
+  {
+    "id": "blackboard",
+    "topic": "elearning",
+    "questionAr": "عندي مشكلة في البلاك بورد",
+    "questionEn": "I have a problem with Blackboard",
+    "answerAr": "أقدر أفتح لك تذكرة مع دعم التعلم الإلكتروني. وصف لي المشكلة بالضبط — ما تقدر تدخل، ولا المحاضرة ما تفتح، ولا الاختبار؟",
+    "answerEn": "I can open a ticket with E-Learning Support. Tell me exactly what is happening — you cannot log in, a lecture will not open, or an exam?",
+    "source": "demo"
+  },
+  {
+    "id": "programs",
+    "topic": "programs",
+    "questionAr": "وش التخصصات المتاحة؟",
+    "questionEn": "What programmes are available?",
+    "answerAr": "الجامعة فيها كليات في الطب، والهندسة، وعلوم الحاسب، وإدارة الأعمال، والعلوم الصحية، والآداب وغيرها. قل لي المجال اللي يهمك وأعطيك تفاصيل أكثر.",
+    "answerEn": "The university has colleges in medicine, engineering, computer science, business administration, health sciences, arts and more. Tell me the field you are interested in and I will give you more detail.",
+    "source": "demo"
+  },
+  {
+    "id": "contact",
+    "topic": "contact",
+    "questionAr": "كيف أتواصل مع الجامعة؟",
+    "questionEn": "How do I contact the university?",
+    "answerAr": "أقدر أحولك مباشرة للقسم المناسب، أو أرسل لك أرقام التواصل برسالة نصية.",
+    "answerEn": "I can transfer you directly to the right department, or send you the contact details by text message.",
+    "source": "demo"
+  }
+]

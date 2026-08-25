@@ -1,0 +1,61 @@
+@import 'tailwindcss';
+
+:root {
+  --u-primary: #0b5d3b;
+  --u-primary-soft: #0b5d3b14;
+  --u-accent: #c9a227;
+  --u-canvas: #f6f7f6;
+  --u-surface: #ffffff;
+  --u-line: #1a1a1a14;
+  --u-ink: #16181a;
+  --u-dim: #5a6068;
+  --u-faint: #8b9199;
+}
+
+@theme inline {
+  --color-primary: var(--u-primary);
+  --color-accent: var(--u-accent);
+  --color-canvas: var(--u-canvas);
+  --color-surface: var(--u-surface);
+  --color-line: var(--u-line);
+  --color-ink: var(--u-ink);
+  --color-dim: var(--u-dim);
+  --color-faint: var(--u-faint);
+}
+
+@layer base {
+  body {
+    background: var(--u-canvas);
+    color: var(--u-ink);
+    font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  [dir='rtl'],
+  [lang='ar'] {
+    font-family: ui-sans-serif, system-ui, 'Segoe UI', Tahoma, sans-serif;
+  }
+}
+
+.card {
+  background: var(--u-surface);
+  border: 1px solid var(--u-line);
+  border-radius: 14px;
+}
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--u-faint);
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+@keyframes u-spin { to { transform: rotate(360deg); } }
+.spin { animation: u-spin 0.8s linear infinite; }
+
+@keyframes u-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+.pulse { animation: u-pulse 1.4s ease-in-out infinite; }

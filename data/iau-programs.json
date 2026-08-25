@@ -1,0 +1,9 @@
+[
+  { "id": "medicine", "nameAr": "الطب البشري", "nameEn": "Medicine", "college": "College of Medicine", "years": 6, "track": "science", "source": "demo" },
+  { "id": "dentistry", "nameAr": "طب الأسنان", "nameEn": "Dentistry", "college": "College of Dentistry", "years": 6, "track": "science", "source": "demo" },
+  { "id": "engineering", "nameAr": "الهندسة", "nameEn": "Engineering", "college": "College of Engineering", "years": 5, "track": "science", "source": "demo" },
+  { "id": "computer-science", "nameAr": "علوم الحاسب", "nameEn": "Computer Science", "college": "College of Computer Science and IT", "years": 4, "track": "science", "source": "demo" },
+  { "id": "business", "nameAr": "إدارة الأعمال", "nameEn": "Business Administration", "college": "College of Business Administration", "years": 4, "track": "any", "source": "demo" },
+  { "id": "nursing", "nameAr": "التمريض", "nameEn": "Nursing", "college": "College of Nursing", "years": 4, "track": "science", "source": "demo" },
+  { "id": "applied-studies", "nameAr": "الدراسات التطبيقية", "nameEn": "Applied Studies", "college": "Applied Studies and Community Service", "years": 4, "track": "any", "source": "demo" }
+]

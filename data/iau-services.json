@@ -1,0 +1,8 @@
+[
+  { "id": "admission-portal", "nameAr": "بوابة القبول", "nameEn": "Admission portal", "descriptionAr": "التقديم ومتابعة الطلب", "descriptionEn": "Apply and track your application", "department": "admissions", "source": "demo" },
+  { "id": "blackboard", "nameAr": "البلاك بورد", "nameEn": "Blackboard LMS", "descriptionAr": "المحاضرات والاختبارات الإلكترونية", "descriptionEn": "Lectures and online exams", "department": "elearning", "source": "demo" },
+  { "id": "student-email", "nameAr": "البريد الجامعي", "nameEn": "University email", "descriptionAr": "حساب البريد الرسمي للطالب", "descriptionEn": "Official student email account", "department": "it_support", "source": "demo" },
+  { "id": "academic-record", "nameAr": "السجل الأكاديمي", "nameEn": "Academic record", "descriptionAr": "الدرجات والجداول والوثائق", "descriptionEn": "Grades, schedules and documents", "department": "registration", "source": "demo" },
+  { "id": "student-stipend", "nameAr": "المكافأة الطلابية", "nameEn": "Student stipend", "descriptionAr": "الصرف والاستفسارات", "descriptionEn": "Payments and enquiries", "department": "student_services", "source": "demo" },
+  { "id": "housing", "nameAr": "السكن الجامعي", "nameEn": "Student housing", "descriptionAr": "الطلب والشروط", "descriptionEn": "Applications and conditions", "department": "student_services", "source": "demo" }
+]
